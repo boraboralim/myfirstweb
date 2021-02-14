@@ -11,6 +11,11 @@
     margin-bottom: 20px;s
     font-size: 25px;
   }
+
+  .welcome-header__title span {
+    color: var(--purple);
+    font-weight: 600;
+  }
   
   .welcome-header__text {
     width: 60%;
@@ -45,7 +50,8 @@
   }
   
   #login-form input[type="submit"]{
-    background-color:#F6F6F6;
+    background-color:var(--purple);
+    opacity: 0.7;
     cursor: pointer;
     padding: 20px 0px;
     border-radius: 5px;

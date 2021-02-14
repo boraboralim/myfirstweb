@@ -17,3 +17,35 @@
 .settings__setting-column:last-child {
   opacity: 0.5;
 }
+
+.settings_new {
+  position: absolute;
+  left: 160px;
+  top: 590px;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ff6348;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.settings_new_new {
+  position: absolute;
+  left: 160px;
+  top: 655px;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ff6348;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

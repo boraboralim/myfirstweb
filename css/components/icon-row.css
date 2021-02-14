@@ -16,4 +16,13 @@
 
 .icon-row__icon span {
   margin-top: 20px;
+  text-align: center;
+}
+
+.exception {
+  justify-content: left;
+}
+
+.exception .icon-row__icon {
+  margin-right: 60px;
 }
